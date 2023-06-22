@@ -1,0 +1,26 @@
+.container {
+    margin: 50px;
+    font-family: 'Fira Sans', 'Arial';
+    text-align: left;
+}
+
+.HeaderP {
+    width:70em;
+    max-width: 30em;
+}
+
+.suhu {
+    line-height: 2em;
+    text-align: left;
+    font-weight: bold;
+}
+
+.displaybox {
+    display: grid;
+    width: 200px;
+}
+
+button {
+    position: relative;
+    top: -25px;
+}
